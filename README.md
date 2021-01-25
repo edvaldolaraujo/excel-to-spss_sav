@@ -5,8 +5,7 @@ SPSS é um software estatístico muito comum em alguns domínios como, por exemp
 O objetivo deste código é converter um arquivo Excel com o menor esforço de programação possivel. Para atingir este propósito usaremos um arquivo JSON que servirá de metadata.
 
 Este arquivo metadata ajuda a definir:
-
-O nome das colunas no arquivo Excel
-O label de cada coluna
-O tipo de dado (Numérico, categórico ou text)
-O tamanho de cada coluna
+* O nome das colunas no arquivo Excel
+* O label de cada coluna
+* O tipo de dado (Numérico, categórico ou text)
+* O tamanho de cada coluna
