@@ -1,4 +1,4 @@
-# Transfom data from Excel file to SPSS-SAV Format
+# Convert data from Excel file to SPSS-SAV Format with Python
 
 SPSS é um software estatístico muito comum em alguns domínios como, por exemplo, Market Research. O sofware possui uma linguagem de script própria onde é possivel ler um arquivo excel e transformá-lo em SAV (formato nativo do SPSS), porém é necessario um considerável esforço de programação.
 
