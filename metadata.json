@@ -1,0 +1,5 @@
+{
+"Numeric":["ID Respondente","ID Respondente",2,0],
+"Categorical":["Perfil","Perfil",1,0],
+"Text":["Your Comments","Your Comments",3,800]
+}
